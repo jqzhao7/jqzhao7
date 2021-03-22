@@ -27,10 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 ****
 
-> ## 教育经历
-
 - 2015.09 - 2022.07  西北大学
-
+****
 - [Nature Communications 一区] [Visible-light-assisted Multimechanism Design for One-step Engineering  
    Tough Hydrogels in Seconds.](https://www.nature.com/articles/s41467-020-18145-w) Cong Wang, Ping Zhang, Wenqing Xiao, **Jiaqi Zhao**, Mengting Shi  
 - [计算机学报] [基于图网络的OpenCL程序自动优化方法.]() 汤战勇, 张宇翔, 张成, **赵佳棋**  
