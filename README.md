@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <table width="680px">
     <tr>
-      <td width="200px">个人电话: 13096908985(同微信)</td>
-      <td width="170px">西安 | 硕士 | 中共党员</td>
+      <td width="300px">个人电话: 13096908985(同微信)</td>
+      <td width="300px">西安 | 硕士 | 中共党员</td>
       <td rowspan="3" align="right">
         <img width="90px" src="https://img-blog.csdnimg.cn/20210309194417590.jpg">
       </td>
