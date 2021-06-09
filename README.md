@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
       </td>
     </tr>
     <tr>
-      <td>个人邮箱: <a href="mailto:jqzhao@vip.qq.com"> jqzhao@vip.qq.com </a></td>
+      <td>个人邮箱: <a href="mailto:zjq2048@qq.com"> zjq2048@qq.com </a></td>
       <td><a ><a href="https://gitee.com/nwu_zjq/dashboard/projects">GITEE</a> | <a href="https://blog.csdn.net/qq_32460819?type=blog">CSDN博客</a</td>
     </tr>
 </table>
@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 - [Nature Communications 一区] [Visible-light-assisted Multimechanism Design for One-step Engineering  
    Tough Hydrogels in Seconds.](https://www.nature.com/articles/s41467-020-18145-w) Cong Wang, Ping Zhang, Wenqing Xiao, **Jiaqi Zhao**, Mengting Shi  
 - [计算机学报] [基于图网络的OpenCL程序自动优化方法.]() 汤战勇, 张宇翔, 张成, **赵佳棋**  
-- [发明专利 在投] [RL-STOKE: 一种基于深度强化学习的超优化编译器.]() **赵佳棋**, 汤战勇, 张成  
-- [发明专利 在投] [基于Cl2Graph与RGNN的OpenCL启发式优化.]() 汤战勇, 张宇翔, **赵佳棋**, 张成 
-- 
+- [发明专利] [RL-STOKE: 一种基于深度强化学习的超优化编译器.]() **赵佳棋**, 汤战勇, 张成  
+- [发明专利] [基于Cl2Graph与RGNN的OpenCL启发式优化.]() 汤战勇, 张宇翔, **赵佳棋**, 张成 
+- [软著] [测试系统]() 赵佳棋
